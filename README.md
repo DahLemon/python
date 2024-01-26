@@ -1,5 +1,7 @@
 This README.md file contains documentation for the 'insertion_sort.py' file in this directory.
 
+!! IMPORTANT: It is advised to have general knowledge of Python and Python 'unittest'.
+
 What is Sorting in Python Testing?
 Sorting in Python involves putting a collection of elements (example: an array of number values), into a particular order,
 like arranging number values from smallest to largest or vice versa. This is often done using built-in functions or
